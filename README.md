@@ -1,5 +1,6 @@
 # Storybook for Nuxt framework <!-- omit in toc -->
 
+Deprecated in favor of https://github.com/nuxt-modules/storybook/
 
 ![sb-nuxt (2)](https://github.com/storybook-vue/nuxt/assets/711292/6cd06c77-1b6e-4a45-9666-a97d091a27c0)
 
